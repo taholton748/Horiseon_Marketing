@@ -10,7 +10,9 @@ Making Horiseon Marketing's website functional, making it more efficient for sea
 
 https://taholton748.github.io/Horiseon_Marketing/
 
-<img>
+## Built With
+* HTML
+* CSS
 
 ## Contributing
 
