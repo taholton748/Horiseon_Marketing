@@ -10,15 +10,17 @@ Making Horiseon Marketing's website functional, making it more efficient for sea
 
 https://taholton748.github.io/Horiseon_Marketing/
 
+<img>
+
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Small alterations are welcome. For major changes, please contact first to discuss what you would like to change.
 
 Contact info below for inquiries or discussion of major changes.
 
 ## Contact
 
-Tyler Holton
+<strong>Tyler Holton</strong>
 
 Email: taholton748@yahoo.com
 
